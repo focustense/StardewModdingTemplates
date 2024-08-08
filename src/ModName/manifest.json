@@ -1,0 +1,16 @@
+﻿{
+  "Name": "ModName",
+  "Author": "authorname",
+  "Version": "0.1.0",
+  "Description": "Description of the mod",
+  "UniqueID": "authorname.ModName",
+  "EntryDll": "ModName.dll",
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ],
+  "MinimumApiVersion": "4.0.5",
+  "UpdateKeys": [ "Nexus:0", "GitHub:authorname/ModName" ]
+}

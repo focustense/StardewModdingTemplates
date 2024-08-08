@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "focustense",
+  "classifications": [ "Stardew", "Stardew Valley", "Modding", "Mods" ],
+  "identity": "focustense.StardewValleyMod.CSharp",
+  "name": "Stardew Valley Mod",
+  "shortName": "stardewmod",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "preferNameDirectory": true,
+  "sourceName": "ModName",
+  "symbols": {
+    "author": {
+      "type": "parameter",
+      "datatype": "text",
+      "description": "The author of the mod, i.e. your GitHub or Nexus username.",
+      "replaces": "authorname"
+    }
+  }
+}
