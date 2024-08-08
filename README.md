@@ -23,7 +23,8 @@ Does not include any editor configs, stylecop settings, IDE settings or other ch
 
 ## Installation
 
-TBD when package is released.
+- Download the `.nupkg` file from the [latest release](https://github.com/focustense/StardewModdingTemplates/releases).
+- Install it with the command: `dotnet new install <path_to_downloaded_file>.nupkg`
 
 ## Usage
 
