@@ -1,7 +1,7 @@
 ﻿namespace ModName;
 
 /// <summary>
-/// Configuration settings for $safeprojectname$.
+/// Configuration settings for ModName.
 /// </summary>
 public class ModConfig
 {
